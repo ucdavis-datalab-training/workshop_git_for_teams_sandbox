@@ -10,5 +10,5 @@ Clone this repository, make a new branch named with your first name and last ini
 (e.g. `first-name_last-initial`) and write your name below.
 
 Name: 
-Manfred Z
-Carlos A. Ruvalcaba
+Manfred Z  
+Carlos A. Ruvalcaba  
