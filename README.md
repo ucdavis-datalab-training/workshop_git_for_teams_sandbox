@@ -9,5 +9,6 @@ Instructions:
 Clone this repository, make a new branch named with your first name and last initial 
 (e.g. `first-name_last-initial`) and write your name below.
 
-Name: Wesley B
+
+Name: Wesley B and Carl S
 
