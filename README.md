@@ -10,5 +10,5 @@ Clone this repository, make a new branch named with your first name and last ini
 (e.g. `first-name_last-initial`) and write your name below.
 
 
-Name: JanN
+Name: Wesley Brooks and Carl S and JanN
 
