@@ -11,8 +11,6 @@ Clone this repository, make a new branch named with your first name and last ini
 
 
 
-Name: Wesley Brooks Carl S and Steve J
-
-
+Name: Wesley Brooks Carl S and Steve J and Kayla L
 
 
