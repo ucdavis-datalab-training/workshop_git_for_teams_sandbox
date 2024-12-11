@@ -7,10 +7,9 @@ Instructions:
 -------------
 
 Clone this repository, make a new branch named with your first name and last initial 
-(e.g. `first-name_last-initial`) and write your name below.
+(e.g. `FIRST_NAME_LAST_INITIAL`) and write your name below.
 
 
 
-Name: Wesley Brooks Carl S and Steve J and Kayla L
-
+Name:
 
